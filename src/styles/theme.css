@@ -1,0 +1,11 @@
+@theme {
+  --font-sans: "Vazirmatn", sans-serif;
+
+  --color-jade: #1B3B2B;
+  --color-jade-dark: #12291D;
+  --color-jade-light: #27523C;
+
+  --color-cream: #F7F4EC;
+  --color-terracotta: #C45B33;
+  --color-gold: #D4A359;
+}

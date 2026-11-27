@@ -1,0 +1,29 @@
+{
+  "name": "boute-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamimxarta/boute-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/shamimxarta/boute-frontend/issues"
+  },
+  "homepage": "https://github.com/shamimxarta/boute-frontend#readme",
+  "private": true,
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "tailwindcss": "^4.3.5",
+    "vite": "^8.4.0"
+  }
+}
